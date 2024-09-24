@@ -313,7 +313,7 @@ aside{
 /* MENU
 ------------------------------- */
 #menu {
-    background-image: url(../images/elly21515B1837_TP_V4.jpg);
+    background-image: url(./elly21515B1837_TP_V4.jpg);
     min-height: 100vh;
 }
 .menu-content {
@@ -349,7 +349,7 @@ aside{
  /*CONTACT
  ------------------*/
  #contact{
-    background-image:url(../images/contact-bg.jpg);
+    background-image:url(./contact-bg.jpg);
     min-height:100vh;
  }
  /*フォーム*/
